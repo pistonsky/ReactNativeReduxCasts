@@ -3,24 +3,24 @@
     "title": "Fried Rice with Chicken",
     "category": "Rice",
     "price": 15000,
-    "image": "https://pistonsky.github.io/ReactNativeReduxCasts/data/images/01.jpg"
+    "image": "https://pistonsky.github.io/ReactNativeReduxCasts/albums/data/images/01.jpg"
   },
   {
     "title": "Fried Rice with Prawn",
     "category": "Rice",
     "price": 20000,
-    "image": "https://pistonsky.github.io/ReactNativeReduxCasts/data/images/02.jpg"
+    "image": "https://pistonsky.github.io/ReactNativeReduxCasts/albums/data/images/02.jpg"
   },
   {
     "title": "Vegetable Coconut Tom Yum",
     "category": "Soup",
     "price": 20000,
-    "image": "https://pistonsky.github.io/ReactNativeReduxCasts/data/images/03.jpg"
+    "image": "https://pistonsky.github.io/ReactNativeReduxCasts/albums/data/images/03.jpg"
   },
   {
     "title": "Thai Clear Soup",
     "category": "Soup",
     "price": 20000,
-    "image": "https://pistonsky.github.io/ReactNativeReduxCasts/data/images/04.jpg"
+    "image": "https://pistonsky.github.io/ReactNativeReduxCasts/albums/data/images/04.jpg"
   }
 ]
